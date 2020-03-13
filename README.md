@@ -1,0 +1,1 @@
+This is Lonette's first git project!
